@@ -1,0 +1,25 @@
+[{
+    "Id": 1,
+    "VehicleNames": "Car",
+    "Image": "https://i.imgur.com/wSPynTB.png",
+    "TicketPrice": 60 ,
+    "Seat": 4
+  }, {
+    "Id": 2,
+    "VehicleNames": "Train",
+    "Image": "https://i.imgur.com/4G6TDor.png",
+   "TicketPrice": 40,
+    "Seat": 6
+  }, {
+    "Id": 3,
+    "VehicleNames": "Bike",
+    "Image": "https://i.imgur.com/BKmrmTS.png",
+    "TicketPrice": 50,
+    "Seat": 1
+  }, {
+    "Id": 4,
+    "VehicleNames": "Bus",
+    "Image": "https://i.imgur.com/bUzIG8P.png",
+    "TicketPrice": 30,
+    "Seat": 2
+  }]
